@@ -4,5 +4,5 @@
 - [x] A guess counter to show how many guesses it took the user
 ## Upcoming Projects
 - [x] Build a simple "crack the code" game
-- [ ] Build a Snake game prototype
-- [ ] Use Streamlit for graphical layout of future projects (including snake)
+- [ ] Build a Tic-Tac-Toe game
+- [ ] Use Streamlit for graphical layout of future projects (including Tic-Tac-Toe)
